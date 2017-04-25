@@ -1,0 +1,72 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(32): undeclared identifier 'iGlobalTime'
+  api=4 insize=5705 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(32): undeclared identifier 'iGlobalTime'
+  api=4 insize=5705 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(26): 'EPSILON_NRM': initial value must be a literal expression
+  api=4 insize=5730 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(26): 'EPSILON_NRM': initial value must be a literal expression
+  api=4 insize=5730 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(27): 'SEA_TIME': initial value must be a literal expression
+  api=4 insize=5742 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(27): 'SEA_TIME': initial value must be a literal expression
+  api=4 insize=5742 outsize=0 ok=0
+Cmd: compileCompute
+  error: 1 plat 4 at WorldGen.compute(67): 'fract': implicit truncation of vector type
+  error: 2 plat 4 at WorldGen.compute(117): type mismatch
+  api=4 insize=5752 outsize=0 ok=0
+Cmd: compileCompute
+  error: 1 plat 4 at WorldGen.compute(67): 'fract': implicit truncation of vector type
+  error: 2 plat 4 at WorldGen.compute(117): type mismatch
+  api=4 insize=5752 outsize=0 ok=0
+Cmd: compileCompute
+  error: 1 plat 4 at WorldGen.compute(68): 'fract': implicit truncation of vector type
+  error: 2 plat 4 at WorldGen.compute(118): type mismatch
+  api=4 insize=5758 outsize=0 ok=0
+Cmd: compileCompute
+  error: 1 plat 4 at WorldGen.compute(68): 'fract': implicit truncation of vector type
+  error: 2 plat 4 at WorldGen.compute(118): type mismatch
+  api=4 insize=5758 outsize=0 ok=0
+Cmd: compileCompute
+  error: 1 plat 4 at WorldGen.compute(68): 'fract': implicit truncation of vector type
+  error: 2 plat 4 at WorldGen.compute(118): type mismatch
+  api=4 insize=5762 outsize=0 ok=0
+Cmd: compileCompute
+  error: 1 plat 4 at WorldGen.compute(68): 'fract': implicit truncation of vector type
+  error: 2 plat 4 at WorldGen.compute(118): type mismatch
+  api=4 insize=5762 outsize=0 ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=943 outsize=690 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=943 outsize=354 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(141): type mismatch
+  api=4 insize=5780 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(141): type mismatch
+  api=4 insize=5780 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(162): incorrect number of arguments to numeric-type constructor
+  api=4 insize=5787 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(162): incorrect number of arguments to numeric-type constructor
+  api=4 insize=5787 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(235): incorrect number of arguments to numeric-type constructor
+  api=4 insize=5834 outsize=0 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WorldGen.compute(235): incorrect number of arguments to numeric-type constructor
+  api=4 insize=5834 outsize=0 ok=0
+Cmd: compileCompute
+  api=4 insize=5847 outsize=457 ok=1
+Cmd: compileCompute
+  api=4 insize=5848 outsize=457 ok=1
+Cmd: compileCompute
+  api=4 insize=5872 outsize=457 ok=1
